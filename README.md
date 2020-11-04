@@ -8,7 +8,9 @@ This repository contains all the custom firmware for 3Drag 3D printer developed 
 
 This is a custom version of the [Marlin Firmware](https://github.com/MarlinFirmware/Marlin) specifically modified for 3Drag 3D printer used in LDM mode. 
 
-```LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).```
+```
+LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).
+```
 
 The firmware have been modified starting from that available from [ElettronicaIn](https://3dprint.elettronicain.it/wp-content/uploads/2016/02/Marlin_LCD_Alfa_2EXT175.zip).
 
@@ -22,22 +24,7 @@ Updated Marlin firmware are available at the [Marlin Releases page](https://gith
 ## Disclaimer
 
 ```
-/*
-* Flashing a custom firmware happens at your own risk.
-*
-* THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS
-* AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED
-* WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-* WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
-* PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
-* THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-* ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-* CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-* PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
-* OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-* HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
-* IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
-* OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-* SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-*/
+__Flashing a custom firmware happens at your own risk.__
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
