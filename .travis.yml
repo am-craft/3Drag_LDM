@@ -77,7 +77,7 @@ script:
   #
   # Build with the default configurations
   #
-  - DISPLAY=:1.0 ~/bin/arduino --verify --board marlin:avr:mega  Marlin/Marlin.ino
+  - rm -rf .build/
   #
   # Test 2 extruders (one MAX6675) and heated bed on basic RAMPS 1.4
   # Test a "Fix Mounted" Probe with Safe Homing, some arc options,
