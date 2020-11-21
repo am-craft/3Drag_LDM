@@ -12,8 +12,14 @@ This is a custom version of the [Marlin Firmware](https://github.com/MarlinFirmw
 ```LDM (liquid Deposition Modeling) is a particular 3D printer process in which viscous fluid are extruded from a reservoir and deposited on the build plate. This process is more generally called Direct Ink Writing (DIW).```
 
 The firmware have been modified starting from that available from [ElettronicaIn](https://3dprint.elettronicain.it/wp-content/uploads/2016/02/Marlin_LCD_Alfa_2EXT175.zip).
+_Use this firmware in combination with [3Drag LDM extruder](https://github.com/am-craft/3Drag_LDM_extruder)_
 
-_Use this firmware in combination with [3Drag LDM extruder](https://github.com/am-craft/3Drag_LDM_extruder) E steps have been modified to 400, E0 and bed thermistor have been set to dummy (no heating required to extrude viscous fluids)._
+## Major modifications
+- E0 thermistor and bed thermistor have been set to dummy (no heating required to extrude viscous fluids)
+- _DEFAULT_AXIS_STEPS_PER_UNIT_ for E motor have been modified following this equation: ![](https://latex.codecogs.com/svg.latex?Esteps/mm=\frac{motorSteps*microsteps*gearMultiply}{8})
+
+
+
 ## About Marlin
 
 Marlin is an optimized firmware for [RepRap 3D printers](http://reprap.org/) based on the [Arduino](https://www.arduino.cc/) platform. 
