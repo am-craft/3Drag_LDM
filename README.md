@@ -1,8 +1,8 @@
 # 3Drag LDM
 This repository contains all the custom firmware for 3Drag 3D printer developed @ [+LAB](www.piulab.it)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4282564.svg)](https://doi.org/10.5281/zenodo.4282564)
-![](https://img.shields.io/badge/Marlin-v1.0.3dev-orange?style=plastic)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.4282564-blue)](https://doi.org/10.5281/zenodo.4282564)
+![](https://img.shields.io/badge/Marlin-v1.0.3dev-orange)
 ![](https://img.shields.io/github/license/piuLAB-official/3Drag_LDM?color=green&style=plastic)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/piuLAB-official/3Drag_LDM?style=plastic)
 ![](https://travis-ci.org/piuLAB-official/3Drag_LDM.svg?branch=main)
