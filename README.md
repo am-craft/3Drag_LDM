@@ -3,8 +3,8 @@ This repository contains all the custom firmware for 3Drag 3D printer developed 
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.4282564-blue)](https://doi.org/10.5281/zenodo.4282564)
 ![](https://img.shields.io/badge/Marlin-v1.0.3dev-orange)
-![](https://img.shields.io/github/license/piuLAB-official/3Drag_LDM?color=green&style=plastic)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/piuLAB-official/3Drag_LDM?style=plastic)
+![](https://img.shields.io/github/license/piuLAB-official/3Drag_LDM?color=green)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/piuLAB-official/3Drag_LDM)
 ![](https://travis-ci.org/piuLAB-official/3Drag_LDM.svg?branch=main)
 
 This is a custom version of the [Marlin Firmware](https://github.com/MarlinFirmware/Marlin) specifically modified for 3Drag 3D printer used in LDM mode. 
